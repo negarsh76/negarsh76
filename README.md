@@ -154,6 +154,16 @@ Five chapters of classic image-processing algorithms written from first principl
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🕸️ [Patient-Similarity Graphs](https://github.com/negarsh76/Patient-Similarity-Graph)
+Pharyngitis type classification as a **graph problem**: patients are linked by symptom similarity, then grouped with Louvain communities and node2vec-style embeddings, and classified with label propagation and graph-augmented features. Adding the graph raises macro-F1 by about 3 points when only 3–5 % of diagnoses are known. *(Synthetic data.)*
+
+`NetworkX` `scikit-learn` `Graph ML`
+
+</td>
+</tr>
 </table>
 
 ---
