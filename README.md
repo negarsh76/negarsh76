@@ -142,6 +142,18 @@ A personal-finance ledger for Android & iOS that records transactions automatica
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🖼️ [Digital Image Processing — from scratch](https://github.com/negarsh76/Digital-Image-Processing)
+Five chapters of classic image-processing algorithms written from first principles and checked against OpenCV, SciPy and scikit-image. They cover color spaces, interpolation, spatial filtering, noise removal with Wiener deblurring, and **CT reconstruction with filtered back-projection and SART**.
+
+`NumPy` `OpenCV` `scikit-image` `Jupyter`
+
+<img src="https://raw.githubusercontent.com/negarsh76/Digital-Image-Processing/main/assets/banner.png" width="100%" />
+
+</td>
+</tr>
 </table>
 
 ---
