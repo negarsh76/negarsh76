@@ -99,7 +99,7 @@ Deep learning that tells bacterial from non-bacterial pharyngitis using **smartp
 </td>
 <td width="50%" valign="top">
 
-### 📊 [Risk-Score](https://github.com/negarsh76/Risk-Score)
+### 📊 Risk-Score <sub>🔒 private</sub>
 A web app that scores health risk from a questionnaire to support insurance decisions, with an admin panel.
 
 `FastAPI` `Python` `ML`
@@ -171,16 +171,7 @@ Pharyngitis type classification as a **graph problem**: patients are linked by s
 ## 📈 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=negarsh76&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negarsh76&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=negarsh76&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=negarsh76&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 <!-- Footer -->
