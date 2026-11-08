@@ -164,6 +164,18 @@ Pharyngitis type classification as a **graph problem**: patients are linked by s
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔍 [DeepDuplicate](https://github.com/negarsh76/DeepDuplicate)
+Finds exact, near and visual duplicates in large image collections. A **CLIP / DINOv2 + FAISS** search feeds a **rotation-aware pHash → SSIM → SIFT + RANSAC** cascade. It ships with a CLI, a GUI, an HTML report and a reproducible benchmark (0.99 precision, F1 0.75 vs 0.57 for pHash alone).
+
+`PyTorch` `OpenCLIP` `DINOv2` `FAISS` `OpenCV`
+
+<img src="https://raw.githubusercontent.com/negarsh76/DeepDuplicate/main/assets/examples.png" width="100%" />
+
+</td>
+</tr>
 </table>
 
 ---
